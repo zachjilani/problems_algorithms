@@ -29,6 +29,7 @@ public class happyNumber {
 	}
 
 	public static void main(String[] args){
+
     System.out.println(isHappy(19));
 		System.out.println(isHappy(100));
 		System.out.println(isHappy(2));

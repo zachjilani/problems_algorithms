@@ -21,13 +21,13 @@ public class squareRoot {
 		}
 
 		while(start <= end){
-				int mid = start + (end - start)/2;
-				if(mid <= x/mid){
-						start = mid + 1;
-						value = mid;
-				}else{
-						end = mid - 1;
-				}
+			int mid = start + (end - start)/2;
+			if(mid <= x/mid){
+					start = mid + 1;
+					value = mid;
+			}else{
+					end = mid - 1;
+			}
 		}
 		return value;
 	}
