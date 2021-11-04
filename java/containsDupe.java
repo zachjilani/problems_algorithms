@@ -1,5 +1,16 @@
 import java.util.Arrays;
 
+
+// Given an integer array nums, return true if any
+// value appears at least twice in the array, and
+// return false if every element is distinct.
+// EXAMPLES:
+// Input: nums = [1,2,3,1]
+// Output: true
+
+// Input: nums = [1,2,3,4]
+// Output: false
+
 public class containsDupe {
 
 	public static boolean containsDuplicate(int[] nums){
