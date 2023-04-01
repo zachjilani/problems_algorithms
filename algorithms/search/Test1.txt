@@ -1,0 +1,46 @@
+Script started on Sun 26 Sep 2021 10:04:17 PM PDT
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P1_search[?1034h[jilan001@empress HW2P1_search]$ ex./a.ou[3Pex./a.oug++ binsearch.cp[10P./a.out
+What do you want to look for? 1
+comparing against an element in slot 4
+comparing against an element in slot 1
+Found it in position 1
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P1_search[jilan001@empress HW2P1_search]$ ./a.out
+What do you want to look for? 19
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+Found it in position 10
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P1_search[jilan001@empress HW2P1_search]$ ./a.out
+What do you want to look for? 5
+comparing against an element in slot 4
+comparing against an element in slot 1
+Found it in position 3
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P1_search[jilan001@empress HW2P1_search]$ ./a.out
+What do you want to look for? 17
+comparing against an element in slot 4
+comparing against an element in slot 7
+Found it in position 9
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P1_search[jilan001@empress HW2P1_search]$ ./a.out
+What do you want to look for? 21
+comparing against an element in slot 4
+comparing against an element in slot 7
+comparing against an element in slot 8
+comparing against an element in slot 9
+Element not found
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P1_search[jilan001@empress HW2P1_search]$ ./a.out
+What do you want to look for? 0
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 0
+Element not found
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P1_search[jilan001@empress HW2P1_search]$ ./a.out
+What do you want to look for? 6
+comparing against an element in slot 4
+comparing against an element in slot 1
+comparing against an element in slot 2
+comparing against an element in slot 3
+Element not found
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P1_search[jilan001@empress HW2P1_search]$ exit
+exit
+
+Script done on Sun 26 Sep 2021 10:04:56 PM PDT

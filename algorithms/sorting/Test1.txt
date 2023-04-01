@@ -1,0 +1,74 @@
+Script started on Sat 02 Oct 2021 08:44:24 PM PDT
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[?1034h[jilan001@empress HW2P2_sort]$ ex2[./a.ou[3Pex./a.out
+How many elements? (must be less than 10) 7
+Enter elements one per line..
+1
+7
+5
+6
+4
+2
+3
+Ok the pivot is 1
+swap 1 and 1
+Results...
+|1756423
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ ./a.out
+How many elements? (must be less than 10) 8
+Enter elements one per line..
+8
+7
+6
+5
+4
+3
+2
+1
+Ok the pivot is 8
+swap 8 and 2
+Results...
+276543|81
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ ./a.out
+How many elements? (must be less than 10) 8
+Enter elements one per line..
+5
+1
+4
+3
+6
+7
+8
+2
+Ok the pivot is 5
+swap 5 and 3
+Results...
+314|52786
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ ./a.out
+How many elements? (must be less than 10) 6
+Enter elements one per line..
+4
+3
+1
+2
+7
+5
+Ok the pivot is 4
+swap 4 and 2
+Results...
+231|475
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ ./a.out
+How many elements? (must be less than 10) 5
+Enter elements one per line..
+2
+6
+4
+1
+7
+Ok the pivot is 2
+swap 2 and 6
+Results...
+1|2467
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ exit
+exit
+
+Script done on Sat 02 Oct 2021 08:45:39 PM PDT

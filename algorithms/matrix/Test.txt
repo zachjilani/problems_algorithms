@@ -1,0 +1,12 @@
+Script started on Wed 22 Sep 2021 06:59:35 PM PDT
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P3_matrix[?1034h[jilan001@empress HW1P3_matrix]$ ex./a.oug++ mat.cpp
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P3_matrix[jilan001@empress HW1P3_matrix]$ g++ mat.cp[7Pex./a.out
+reading from lines.txt
+0:a b c |b e f |- - - |- - - |
+1:- - - |- - - |c h i |- - - |
+2:- - - |- - - |- - - |d k l |
+saving the table in table.txt
+0:1:2:]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P3_matrix[jilan001@empress HW1P3_matrix]$ ./a.oug++ mat.cp[7Pexit
+exit
+
+Script done on Wed 22 Sep 2021 06:59:45 PM PDT

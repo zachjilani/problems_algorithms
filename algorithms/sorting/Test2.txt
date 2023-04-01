@@ -1,0 +1,73 @@
+Script started on Sat 02 Oct 2021 08:03:45 PM PDT
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[?1034h[jilan001@empress HW2P2_sort]$ /cs/recordhw Test1.t[5Pg++ binsearch.cp/cs/recordhw Test1.tcd[K/cs/recordhw Test1.t[5Pg++ binsearch.cpcd cs311files/CS311Progs-Corrected/HWPrograms/HW2PP1_search[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out
+How many elements in each list?
+3
+List1
+element :1
+element :2
+element :3
+List2
+element :4
+element :5
+element :6
+comparison
+comparison
+comparison
+The result is: 123456
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ ./a.out
+How many elements in each list?
+3
+List1
+element :1
+element :3
+element :5
+List2
+element :2
+element :4
+element :6
+comparison
+comparison
+comparison
+comparison
+comparison
+The result is: 123456
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ ./a.out
+How many elements in each list?
+4
+List1
+element :5
+element :6
+element :4
+element :3
+List2
+element :1
+element :2
+element :7
+element :8
+comparison
+comparison
+comparison
+comparison
+comparison
+comparison
+The result is: 12564378
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ ./a.out
+How many elements in each list?
+3
+List1
+element :4
+element :5
+element :6
+List2
+element :1
+element :2
+element :3
+comparison
+comparison
+comparison
+The result is: 123456
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW2P2_sort[jilan001@empress HW2P2_sort]$ exit
+exit
+
+Script done on Sat 02 Oct 2021 08:05:37 PM PDT

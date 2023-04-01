@@ -1,0 +1,527 @@
+Script started on Sat 18 Sep 2021 04:50:16 PM PDT
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[?1034h[jilan001@empress HW1P2_queue]$ g++ queuetest.cpp
+/tmp/cce2FNa8.o: In function `main':
+queuetest.cpp:(.text+0xc1): undefined reference to `queue::queue()'
+queuetest.cpp:(.text+0x298): undefined reference to `queue::add(std::string)'
+queuetest.cpp:(.text+0x2cf): undefined reference to `queue::displayAll()'
+queuetest.cpp:(.text+0x2ff): undefined reference to `queue::displayAll()'
+queuetest.cpp:(.text+0x31a): undefined reference to `queue::remove(std::string&)'
+queuetest.cpp:(.text+0x363): undefined reference to `queue::displayAll()'
+queuetest.cpp:(.text+0x37e): undefined reference to `queue::frontElem(std::string&)'
+queuetest.cpp:(.text+0x3bd): undefined reference to `queue::isEmpty()'
+queuetest.cpp:(.text+0x414): undefined reference to `queue::isFull()'
+queuetest.cpp:(.text+0x465): undefined reference to `queue::goToBack()'
+queuetest.cpp:(.text+0x474): undefined reference to `queue::displayAll()'
+queuetest.cpp:(.text+0x485): undefined reference to `queue::getSize()'
+queuetest.cpp:(.text+0x506): undefined reference to `queue::~queue()'
+queuetest.cpp:(.text+0x5f9): undefined reference to `queue::~queue()'
+collect2: error: ld returned 1 exit status
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[jilan001@empress HW1P2_queue]$ g++ queue.cpp
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/../../../../lib64/crt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[jilan001@empress HW1P2_queue]$ g++ client2.cpp
+/tmp/ccC5OT0K.o: In function `main':
+client2.cpp:(.text+0x19): undefined reference to `queue::queue()'
+client2.cpp:(.text+0x50): undefined reference to `queue::add(std::string)'
+client2.cpp:(.text+0x9f): undefined reference to `queue::add(std::string)'
+client2.cpp:(.text+0xee): undefined reference to `queue::add(std::string)'
+client2.cpp:(.text+0x128): undefined reference to `queue::remove(std::string&)'
+client2.cpp:(.text+0x18b): undefined reference to `queue::add(std::string)'
+client2.cpp:(.text+0x1c5): undefined reference to `queue::add(std::string)'
+client2.cpp:(.text+0x1ff): undefined reference to `queue::add(std::string)'
+client2.cpp:(.text+0x332): undefined reference to `queue::~queue()'
+client2.cpp:(.text+0x369): undefined reference to `queue::displayAll()'
+client2.cpp:(.text+0x394): undefined reference to `queue::~queue()'
+collect2: error: ld returned 1 exit status
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[jilan001@empress HW1P2_queue]$ cd
+]0;jilan001@empress:~[jilan001@empress ~]$ ls
+[0m[01;34mcs311files[0m
+]0;jilan001@empress:~[jilan001@empress ~]$ cs311files
+bash: cs311files: command not found
+]0;jilan001@empress:~[jilan001@empress ~]$ cd cs311files
+]0;jilan001@empress:~/cs311files[jilan001@empress cs311files]$ ls
+[0m[01;34mCS311Progs-Corrected[0m  for-fall21
+]0;jilan001@empress:~/cs311files[jilan001@empress cs311files]$ ^C
+]0;jilan001@empress:~/cs311files[jilan001@empress cs311files]$ ls
+[0m[01;34mCS311Progs-Corrected[0m  for-fall21
+]0;jilan001@empress:~/cs311files[jilan001@empress cs311files]$ cf[[Kd CS311Progs-Corrected
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected[jilan001@empress CS311Progs-Corrected]$ ls
+[0m[01;34mDemoPrograms[0m  MORE_ON_UNIX  @@read-me
+[01;34mHWPrograms[0m    ON_COMPILER   UNIX_CHEAT_SHEET
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected[jilan001@empress CS311Progs-Corrected]$ cd HWPrograms
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms[jilan001@empress HWPrograms]$ ls
+[0m[01;34mforEC2[0m  [01;34mforHW2[0m  [01;34mforHW4[0m  [01;34mforHW6[0m  [01;34mforHW8[0m       @@important
+[01;34mforHW1[0m  [01;34mforHW3[0m  [01;34mforHW5[0m  [01;34mforHW7[0m  [01;34mHW1P2_queue[0m  @@read-me
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms[jilan001@empress HWPrograms]$ HW1P2_queue
+bash: HW1P2_queue: command not found
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms[jilan001@empress HWPrograms]$ HW1P2_queucHW1P2_queudHW1P2_queu HW1P2_queu
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[jilan001@empress HW1P2_queue]$ ls
+client2.cpp  hw1queuedemo.out  queue.cpp  queue.h  queuetest.cpp  ,Test1.txt
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[jilan001@empress HW1P2_queue]$ cd HW1P2_que[3PHW1P2_queulscd HWProgramlscd CS311Progs-Correctelscd cs311fil[3Ps311fillsg++ client2.cp[2Pqueue.ctest.cpexit./a.oulsg++ stringDemo1.cplscd DemoProgramlscd CS311Progs-Correctelscd CS311Progs-Correctelscd DemoProgramlsg++ stringDemo1.cpls./a.ou[3Pexg++ queuetest.c[4P.cpclient2.cpcdcs311filed cs311filelscd CS311Progs-Correctelscd HWProgramlsHW1P2_queucd HW1P2_quels[K/cs/recordhw Test1.txt
+You are already recording!  Into file Test1.txt.
+  (no new recording has been started.)
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[jilan001@empress HW1P2_queue]$ g++ queue.cpp queuetest.cpp
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[jilan001@empress HW1P2_queue]$ ./a.out
+************** Queue Test Program *************
+This program tests the queue ADT implemented as
+an array.  
+It is a menu based program allowing you to test each method. 
+It displays the entire queue whenever it is modified.
+***********************************************
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>2
+The current contents are: 
+[ empty ]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : a
+The updated contents of the queue are:  
+[a
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : b
+The updated contents of the queue are:  
+[a
+b
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : c
+The updated contents of the queue are:  
+[a
+b
+c
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : d
+The updated contents of the queue are:  
+[a
+b
+c
+d
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : e
+The updated contents of the queue are:  
+[a
+b
+c
+d
+e
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : f
+The updated contents of the queue are:  
+[a
+b
+c
+d
+e
+f
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : g
+The updated contents of the queue are:  
+[a
+b
+c
+d
+e
+f
+g
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : h
+The updated contents of the queue are:  
+[a
+b
+c
+d
+e
+f
+g
+h
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : i
+The updated contents of the queue are:  
+[a
+b
+c
+d
+e
+f
+g
+h
+i
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : j
+The updated contents of the queue are:  
+[a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>4
+a
+a is at the front.
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>3
+a has been removed.
+The updated contents of the queue are: [b
+c
+d
+e
+f
+g
+h
+i
+j
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>4
+b
+b is at the front.
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>2
+The current contents are: 
+[b
+c
+d
+e
+f
+g
+h
+i
+j
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>1
+Enter a string to be added : k
+The updated contents of the queue are:  
+[b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>8
+10 elements are in Queue.
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>2
+The current contents are: 
+[b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>7
+[c
+d
+e
+f
+g
+h
+i
+j
+k
+b
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>2
+The current contents are: 
+[c
+d
+e
+f
+g
+h
+i
+j
+k
+b
+
+]
+
+MENU: These are your options: 
+
+   (1) Add an element   
+   (2) Display the entire queue  
+   (3) Remove an element
+   (4) Display the front element
+   (5) Check to see if is it empty
+   (6) Check to see if is it full
+   (7) Go to Back
+   (8) Get size
+    Enter ( 0 ) to quit 
+===>0
+Bye bye - ending the queue test program
+]0;jilan001@empress:~/cs311files/CS311Progs-Corrected/HWPrograms/HW1P2_queue[jilan001@empress HW1P2_queue]$ exit
+exit
+
+Script done on Sat 18 Sep 2021 05:13:05 PM PDT
